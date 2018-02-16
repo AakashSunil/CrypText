@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id = "@+id/Option1"
+        android:title="Caesar (Encrypt)">
+    </item>
+    <item
+        android:id = "@+id/Option2"
+        android:title="Caesar (Decrypt)">
+    </item>
+<!--    <item
+        android:id = "@+id/Option3"
+        android:title="PlayFair (Encrypt)">
+    </item>
+    <item
+        android:id = "@+id/Option4"
+        android:title="PlayFair (Decrypt)">
+    </item>
+-->
+
+</menu>

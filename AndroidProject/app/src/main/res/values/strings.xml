@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CrypText</string>
+    <string name="description">This is an Encryption of Text Application\nIt has encryption and decryption of Text using\nCaesar Cipher\n\nChoose from Top Right Button</string>
+    <string name="plain">Enter Plain Text</string>
+    <string name="cipher">Generated Cipher Text</string>
+    <string name="cipher1">Enter Cipher Text</string>
+    <string name="plain1">Generated Plain Text</string>
+    <string name="keyword">Enter Keyword</string>
+</resources>
